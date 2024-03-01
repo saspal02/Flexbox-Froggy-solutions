@@ -2,7 +2,7 @@
 This repo consists of flexbox-froggy solutions.
 
 ## Solutions
-[Level 1](/.) 
+[Level 1](/..) 
 
 
 ## Level-1
