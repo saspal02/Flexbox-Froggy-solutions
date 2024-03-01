@@ -2,7 +2,7 @@
 This repo consists of flexbox-froggy solutions.
 
 ## Solutions
-[Level-1](https://github.com/saspal02/Flexbox-Froggy-solutions/edit/main/README.md#level-1)
+- [Level-1](#Level-1)
 
 
 ## Level-1
