@@ -1,9 +1,33 @@
 # Flexbox-Froggy-solutions
-This repo consists of flexbox-froggy solutions.
+This repository contains solutions to the CSS exercises from the Flexbox Froggy website. [Flexbox Froggy](https://flexboxfroggy.com/) is a fun and interactive game that teaches you the basics of CSS Flexbox layout through a series of challenges.
 
 ## Solutions
 - [Level-1](#Level-1)
+- [Level-2](#Level-2)
+- [Level-3](#Level-3)
+- [Level-4](#Level-4)
+- [Level-5](#Level-5)
+- [Level-6](#Level-6)
+- [Level-7](#Level-7)
+- [Level-8](#Level-8)
+- [Level-9](#Level-9)
+- [Level-10](#Level-10)
+- [Level-11](#Level-11)
+- [Level-12](#Level-12)
+- [Level-13](#Level-13)
+- [Level-14](#Level-14)
+- [Level-15](#Level-15)
+- [Level-16](#Level-16)
+- [Level-17](#Level-17)
+- [Level-18](#Level-18)
+- [Level-19](#Level-19)
+- [Level-20](#Level-20)
+- [Level-21](#Level-21)
+- [Level-22](#Level-22)
+- [Level-23](#Level-23)
+- [Level-24](#Level-24)
 
+---
 
 ## Level-1
 ![Exercise1](https://github.com/saspal02/Flexbox-Froggy-solutions/assets/108214921/bc58fd09-edda-4459-be8e-e344cc8df48d)
